@@ -1,5 +1,5 @@
-# deep-name-gender
-This recurrent neural network classifies a given first name as either male or female. 
+# deep-classification-based-on-social-handle
+This recurrent neural network classifies a given first name from social media data as either male or female based on historical data. 
 
 This model will use a 2-layer LSTM model with a dense-activation layer and dropout regularization. This decision was through multiple trials with 1-3 layer LSTM models using various dropout rates and batch sizing. 
 
